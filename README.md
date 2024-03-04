@@ -37,8 +37,7 @@ Soy Anibal Vargas Quimbaya un desarrollador de software con experiencia en  Java
 
 - **Nombre del Proyecto**: Gestion correcta de los inventario 
 - *Duración*: 6 meses
-- *Tecnologías Utilizadas*:
--  Lenguajes de Programación:   
+ 
 + El aplicativo web utiliza CSS y HTML para la interfaz de usuario (front-end), HTML, PHP y JavaScript (back-end) para el funcionamiento de la misma.
 - Servidor Web:
 + Tiene conexión a una licencia oficial de google abquirida por mi persona y mi grupo de trabajo
